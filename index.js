@@ -223,4 +223,4 @@ require("./ExtendedMessage");
     
     
 
-client.login('OTA2NzEzMTk4MzI4MTYwMjc2.YYcoeA.K4Y-Ty5WgH1D7R3vkW_359e9pP8');
+client.login('Insert Bot Id Here');

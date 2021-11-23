@@ -1,4 +1,5 @@
 "TOKEN"
+require("dotenv").config();
 // if you need help ask in the help channel dont dm me
  const { default_prefix } = require("./config.json")
  const fetch = require("node-fetch");
@@ -223,4 +224,4 @@ require("./ExtendedMessage");
     
     
 
-client.login('Insert Bot Id Here');
+client.login();

@@ -22,7 +22,7 @@
     "canvas": "^2.8.0",
     "canvas-constructor": "^4.1.0",
     "canvas-senpai": "^0.1.6",
-    "common-tags": "^1.8.0",
+    "common-tags": "^1.8.2",
     "cpu-stat": "^2.0.1",
     "di": "0.0.1",
     "discord-akairo": "^8.1.0",

@@ -19,7 +19,7 @@
     "await": "^0.2.6",
     "axios": "^0.21.1",
     "canvacord": "^5.0.8",
-    "canvas": "^2.8.0",
+    "canvas": "^3.0.0",
     "canvas-constructor": "^4.1.0",
     "canvas-senpai": "^0.1.6",
     "common-tags": "^1.8.0",
